@@ -2,7 +2,7 @@
 
 <h4> 📚Student at HYF-Copenhagen.</h4>
 
-<p> 📈 Learing Web development to kick start the career again. </p>
+<p> 📈 Learing Web development. </p>
 
 <h3>✨ More about me: 🙋‍♀️</h3>
 
