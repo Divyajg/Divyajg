@@ -1,16 +1,16 @@
-### Hi there 👋
+# Hey there 👋, I am Divyajyothi Guttula
 
-<!--
-**Divyajg/Divyajg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h4> 📚Student at HYF-Copenhagen.</h4>
 
-Here are some ideas to get you started:
+<p> 📈 Learing Web development to kick start the career again. </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3>✨ More about me: 🙋‍♀️</h3>
+
+  <p>✍ A <strong>Mother</strong> 👩 to a naughty 2016 born kid 🧒.<br/>
+  ✍ Enthusiastic 👩‍💻 for coding. <br/>
+   ✍ HTML, CSS, JavaScript <br/>
+   ✍ NodeJs, ExpressJs, REST Api <br/>
+    ✍ MySql<br/></p>
+    
+<h3> Contact me here: <a href="https://www.linkedin.com/in/divyajyothi-guttula-0b34a2146"> <img src="https://img.icons8.com/fluency/30/000000/linkedin.png"/> </a></h3>
+<h3>Find my work here: <a href="https://github.com/Divyajg?tab=repositories"><img src="https://img.icons8.com/ios-glyphs/30/000000/github.png"/> <a/></h3>
