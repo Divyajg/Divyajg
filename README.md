@@ -12,6 +12,7 @@
     ✍ React.js </br>
    ✍ Node.js, Express.js, REST Api <br/>
     ✍ MySql<br/>
+    ✍ Tailwind CSS<br/>
   </p>
     
 <h3> LinkedIn Profile: <a href="https://www.linkedin.com/in/divyajyothi-guttula-0b34a2146"> <img src="https://img.icons8.com/fluency/30/000000/linkedin.png"/> </a></h3>
