@@ -6,7 +6,7 @@
 
 <h3>✨ More about me: 🙋‍♀️</h3>
 
-  <p>✍ A <strong>Mother</strong> 👩 to a naughty 2016 born kid 🧒.<br/>
+  <p>✍ A <strong>Mother</strong> 👩 to a naughty 5 years old kid 🧒.<br/>
   ✍ Enthusiastic 👩‍💻 for coding. <br/>
    ✍ HTML, CSS, JavaScript <br/>
     ✍ React.js </br>
