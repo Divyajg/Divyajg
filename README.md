@@ -1,6 +1,6 @@
 # Hey there 👋, I am Divyajyothi Guttula
 
-<h4> 📚Student at HYF-Copenhagen.</h4>
+<h4> 📚Trainee at HYF-Copenhagen.</h4>
 
 <p> 📈 Learing Web development. </p>
 
