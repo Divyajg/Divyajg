@@ -4,7 +4,7 @@
 
 <p> 📈 Learing Web development. </p>
 
-<h3>✨ More about me: 🙋‍♀️</h3>
+<h3>✨ Me And My Skills 🙋‍♀️</h3>
 
   <p>✍ A <strong>Mother</strong> 👩 to a naughty 5 years old kid 🧒.<br/>
   ✍ Enthusiastic 👩‍💻 for coding. <br/>
