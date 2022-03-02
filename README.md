@@ -12,6 +12,10 @@
     ✍ React.js </br>
    ✍ Node.js, Express.js, REST Api <br/>
     ✍ MySql<br/>
+    ✍ Git and GitHub<br/>
+    ✍ Storybook<br/>
+    ✍ Swagger<br/>
+    ✍ Firebase authentication<br/>
     ✍ Tailwind CSS<br/>
   </p>
     
