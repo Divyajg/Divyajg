@@ -1,8 +1,7 @@
 # Hey there 👋, I am Divyajyothi Guttula
 
-<h4> 📚Trainee at HYF-Copenhagen.</h4>
+<h4> 📚A Full-stack Web Developer</h4>
 
-<p> 📈 Learing Web development. </p>
 
 <h3>✨ Me And My Skills 🙋‍♀️</h3>
 
@@ -15,8 +14,11 @@
     ✍ Git and GitHub<br/>
     ✍ Storybook<br/>
     ✍ Swagger<br/>
+    ✍ Postman<br/>
     ✍ Firebase authentication<br/>
+    ✍ Azure Static Web Apps<br/>
     ✍ Tailwind CSS<br/>
+    ✍ Code-review(As a Volunteer at HYF, reviewing student homeworks.)<br/>
   </p>
   
   <h3> Portfolio: <a href="https://divyajyothiguttula.netlify.app/"> Divyajyothi Guttula </a> </h3>
