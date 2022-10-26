@@ -18,10 +18,11 @@
     ✍ Firebase authentication<br/>
     ✍ Azure Static Web Apps<br/>
     ✍ Tailwind CSS<br/>
+    ✍ Amazon Web Services<br/>
     ✍ Code-review(As a Volunteer at HYF, reviewing student homeworks.)<br/>
   </p>
   
   <h3> Portfolio: <a href="https://divyajyothiguttula.netlify.app/"> Divyajyothi Guttula </a> </h3>
-<h3> LinkedIn Profile: <a href="https://www.linkedin.com/in/divyajyothi-guttula-0b34a2146"> <img src="https://img.icons8.com/fluency/30/000000/linkedin.png"/> </a></h3>
+<h3> LinkedIn Profile: <a href="https://www.linkedin.com/in/divya-jyothi-guttula"> <img src="https://img.icons8.com/fluency/30/000000/linkedin.png"/> </a></h3>
 <h3>Find my work here: <a href="https://github.com/Divyajg?tab=repositories"><img src="https://img.icons8.com/ios-glyphs/30/000000/github.png"/> <a/></h3>
   <h3>Email me here: <a href="mailto:divyajg@outlook.com">Divyajyothi Guttula</a></h3>
