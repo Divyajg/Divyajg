@@ -15,6 +15,7 @@ I am eager to leverage my skills and contribute to innovative projects within a 
 <img src="https://github.com/user-attachments/assets/c76e9895-cea6-485c-81c0-414b34a3e5f8"/> 
 <img src="https://github.com/user-attachments/assets/7febc7d2-4b5e-4496-baa2-f3ffbb837eb2"/> 
 <img src="https://github.com/user-attachments/assets/7c7fbaf4-1b66-4617-ac66-c572ea806b3c"/>
+<img src="https://github.com/user-attachments/assets/249e7d31-846b-4535-b27e-d07847e74ade"/>
 <img src="https://cdn-images-1.medium.com/v2/resize:fill:60:60/1*TD1P0HtIH9zF0UEH28zYtw.png"/> 
 
 
