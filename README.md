@@ -1,4 +1,4 @@
-# Hey there 👋, I am Divyajyothi Guttula
+# Hey there 👋, I am Divya Guttula
 
 <h4> 📚 Software Developer with a passion for Coding, Curious, and Positive.</h4>
 
